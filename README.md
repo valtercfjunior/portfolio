@@ -14,8 +14,8 @@
 
 
 <h1 align="center">
-    <img src="./public/assets/preview-readme1.png" style="width:1000px; border-radius:10px " >
-    <img src="./public/assets/preview-readme2.png" style="width: 1000px; border-radius:10px ">
+    <img src="./public/assets/preview-readme1.png" style="width: 2000px; border-radius:10px " >
+    <img src="./public/assets/preview-readme2.png" style="width: 2000px; border-radius:10px ">
 </h1>
 
 ## **Objetivo**
@@ -31,6 +31,7 @@
 <li>🛠 CSS
 <li>🛠 Javascript
 <li>🛠 API Github
+<li>🛠 Tiny Slider 2
 
 </ul>
 
