@@ -31,6 +31,7 @@
 <li>🛠 CSS
 <li>🛠 Javascript
 <li>🛠 API Github
+<li>🛠 Tiny Slider 2
 
 </ul>
 
