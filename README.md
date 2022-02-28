@@ -14,8 +14,8 @@
 
 
 <h1 align="center">
-    <img src="./public/assets/preview1.png">
-    <img src="./public/assets/preview2.png">
+    <img src="./public/assets/preview-readme1.png" style="width:1000px; border-radius:10px " >
+    <img src="./public/assets/preview-readme2.png" style="width: 1000px; border-radius:10px ">
 </h1>
 
 ## **Objetivo**
