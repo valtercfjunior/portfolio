@@ -12,12 +12,12 @@ async function getUserData() {
         container += `
             <a href="${repo.html_url}" style="text-decoration: none" target="_blank">
                 <div id="projects" class="cards-laterais cards" >
-                    <h1 > <img src="../public/assets/folder.svg" alt="folder"> ${repo.name}</h1>
+                    <h1 > <img src="../public/images/folder.svg" alt="folder"> ${repo.name}</h1>
                     <p >${repo.description}</p>
                     <div class="cardsStats">
-                        <img src="../public/assets/star.svg" alt="star">
+                        <img src="../public/images/star.svg" alt="star">
                         <p>${repo.stargazers_count}</p>
-                        <img src="../public/assets/git-branch.svg" alt="branch">
+                        <img src="../public/images/git-branch.svg" alt="branch">
                         <p>${repo.forks_count}</p>
                     </div>
                     </div>
